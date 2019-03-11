@@ -1,0 +1,9 @@
+
+commons-fileupload-1.2.2.jar
+commons-io-2.2.jar
+
+上面两个是文件上传的包
+
+commons-beanutils-1.8.3.jar
+commons-logging-1.1.1.jar
+下面两个是工具类
